@@ -1,3 +1,3 @@
 # project2
 
-this file was created to push repo from local machine 
+this file was created to push repo from local machine.
